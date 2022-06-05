@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bullishbees/static/css/main.eb745cc5.chunk.css",
-    "main.js": "/bullishbees/static/js/main.829a7ae3.chunk.js",
-    "main.js.map": "/bullishbees/static/js/main.829a7ae3.chunk.js.map",
+    "main.js": "/bullishbees/static/js/main.ebcd7d80.chunk.js",
+    "main.js.map": "/bullishbees/static/js/main.ebcd7d80.chunk.js.map",
     "runtime-main.js": "/bullishbees/static/js/runtime-main.d21ca476.js",
     "runtime-main.js.map": "/bullishbees/static/js/runtime-main.d21ca476.js.map",
     "static/css/2.08feb09d.chunk.css": "/bullishbees/static/css/2.08feb09d.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.08feb09d.chunk.css",
     "static/js/2.65250c87.chunk.js",
     "static/css/main.eb745cc5.chunk.css",
-    "static/js/main.829a7ae3.chunk.js"
+    "static/js/main.ebcd7d80.chunk.js"
   ]
 }
